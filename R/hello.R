@@ -11,6 +11,8 @@ hello <- function() {
   message("^Welcome to the R/Pharma CI/CD workshop!\\n")
 }
 
+####### this is a random comment
+
 #' Linting for Cyclomatic Complexity
 #'
 #' Cyclomatic Complexity Example

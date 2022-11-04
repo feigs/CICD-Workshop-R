@@ -8,8 +8,10 @@
 #' @examples
 #' hello()
 hello <- function() {
-  message("^Welcome to the R/Pharma CI/CD workshop!\\n")
+  message("^Welcome to the CI/CD workshop!\\n")
 }
+
+####### this is a random comment
 
 #' Linting for Cyclomatic Complexity
 #'
